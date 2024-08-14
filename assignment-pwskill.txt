@@ -1,0 +1,16 @@
+Assignment : Python
+
+
+Q1. Explain the key features of Python that make it a popular choice for programming?
+
+Q2. Describe the role of predefined keywords in Python and provide examples of how they are used in a program.
+
+Q3. Compare and contrast mutable and immutable objects in Python with examples.
+
+Q4. Discuss the different types of operators in Python and provide examples of how they are used.
+
+Q5. Explain the concept of type casting in Python with examples.
+
+Q6. How do conditional statements work in Python? Illustrate with examples.
+
+Q7. Describe the different types of loops in Python and their use cases with examples.
